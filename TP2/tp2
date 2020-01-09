@@ -1,0 +1,7 @@
+Ex1
+
+- Une clé primaire et 6 clés étrangères
+- select count(*) from nobels
+- select name from nobels where category='physics' and year='1903';
+
+
